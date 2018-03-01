@@ -1,6 +1,4 @@
-# DICOM
-
-# DICOM (WinForm)#
+# DICOM (WinForm)
 
 In this project I implemented 3 tasks:
 
